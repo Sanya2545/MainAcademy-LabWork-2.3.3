@@ -1,0 +1,7 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\CSharp_Net-module1_8_3–lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.pdb
