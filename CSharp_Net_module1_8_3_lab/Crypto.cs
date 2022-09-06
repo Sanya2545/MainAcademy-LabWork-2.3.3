@@ -72,13 +72,13 @@ namespace CSharp_Net_module1_8_3_lab
             string data = File.ReadAllText("file.txt", Encoding.ASCII);
             ECDsaCng signature = new ECDsaCng(key);
             // 15) Create signatere. Save it to array of bytes.
-            byte[] bytes = signature.SignData(Encoding.ASCII.GetBytes(data));
+            byte[] sign = signature.SignData(Encoding.ASCII.GetBytes(data));
             //  Declare object of class ECDsaCng. Use declared object of CngKey as parameter of constructor.
             // Save to byte array result of method SignData() of class ECDsaCng with value of public key as parameter 
             File.WriteAllText("file.txt", data);
             // Note: don't forget to clear with method Clear() of class ECDsaCng
             signature.Clear();
-            return bytes;
+            return sign;
         }
 
         // 16) Change parameters in method and returned type

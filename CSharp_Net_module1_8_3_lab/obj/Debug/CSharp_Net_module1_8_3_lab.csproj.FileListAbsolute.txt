@@ -5,3 +5,10 @@ D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CShar
 D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.csprojResolveAssemblyReference.cache
 D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.exe
 D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_8_3\‌begin\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.exe.config
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.exe
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\bin\Debug\CSharp_Net_module1_8_3_lab.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.exe
+D:\MainAcademy\C# .NET\LabWorks_2\Module_3\LabWork_3.3\(begin)CSharp_Net_module3_3_lab\CSharp_Net_module1_8_3_lab\CSharp_Net_module1_8_3_lab\obj\Debug\CSharp_Net_module1_8_3_lab.pdb

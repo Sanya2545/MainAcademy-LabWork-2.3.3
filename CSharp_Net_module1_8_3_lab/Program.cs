@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +11,29 @@ namespace CSharp_Net_module1_8_3_lab
     {
         static void Main(string[] args)
         {
+            string text = "Hello World !";
+            Crypto crypto = new Crypto();
+            crypto.Crypting(text);
+            if(crypto.Check(text))
+            {
+                Console.WriteLine("Encrypted text is the same !");
+            }
+            else
+            {
+                Console.WriteLine("Encrypted text isn't the same !");
+            }
+            CngAlgorithm algorithm = new CngAlgorithm("3DES");
+            crypto.Signaturing(algorithm);
+            CngKey cngKey = CngKey.Create(algorithm);
+            byte[] publicKey = cngKey.Export(CngKeyBlobFormat.GenericPublicBlob);
+            if(crypto.VerifySignature(publicKey))
+            {
+                Console.WriteLine("Signature was verified !");
+            }
+            else
+            {
+                Console.WriteLine("Signature wasn't verified !");
+            }
             //20) Invoke methods and print results
         }
     }
