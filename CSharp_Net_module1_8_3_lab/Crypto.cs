@@ -75,7 +75,7 @@ namespace CSharp_Net_module1_8_3_lab
             byte[] sign = signature.SignData(Encoding.ASCII.GetBytes(data));
             //  Declare object of class ECDsaCng. Use declared object of CngKey as parameter of constructor.
             // Save to byte array result of method SignData() of class ECDsaCng with value of public key as parameter 
-            File.WriteAllText("file.txt", data);
+            File.WriteAllText("sign.txt", Encoding.UTF8.GetString(sign));
             // Note: don't forget to clear with method Clear() of class ECDsaCng
             signature.Clear();
             return sign;
@@ -94,7 +94,7 @@ namespace CSharp_Net_module1_8_3_lab
             // 18) Verify input data. Declare new object of class ECDsaCng with created signature key on prevous step
             byte[] data = Encoding.ASCII.GetBytes(File.ReadAllText("file.txt", Encoding.ASCII));
             // 19) Invoke method VerifyData() to verify input data;
-            CngAlgorithm algorithm = new CngAlgorithm("3DES");
+            CngAlgorithm algorithm = CngAlgorithm.ECDiffieHellmanP521;
             byte[] sign = Signaturing(algorithm);
             if(signature.VerifyData(data, sign))
             {

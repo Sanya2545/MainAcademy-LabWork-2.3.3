@@ -22,9 +22,9 @@ namespace CSharp_Net_module1_8_3_lab
             {
                 Console.WriteLine("Encrypted text isn't the same !");
             }
-            CngAlgorithm algorithm = new CngAlgorithm("3DES");
-            crypto.Signaturing(algorithm);
-            CngKey cngKey = CngKey.Create(algorithm);
+            CngAlgorithm alg = CngAlgorithm.ECDiffieHellmanP521;
+            crypto.Signaturing(alg);
+            CngKey cngKey = CngKey.Create(alg);
             byte[] publicKey = cngKey.Export(CngKeyBlobFormat.GenericPublicBlob);
             if(crypto.VerifySignature(publicKey))
             {
